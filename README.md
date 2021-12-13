@@ -8,4 +8,4 @@ You can also create a post.
 ![image](https://user-images.githubusercontent.com/88985587/144846163-c7ba8040-0c55-4fef-ab5b-764cc4c4ad6c.png)
 
 In the profile section that you can find in the main navigation bar, you can see some of the info you entered such as your username and email address. You can also upload your very own profile picture that will show up with your posts!
-![image](https://user-images.githubusercontent.com/88985587/144846318-529171bc-8328-44ae-af86-371d510cfcbf.png)
+![image](https://user-images.githubusercontent.com/88985587/145738569-a097c74a-c254-44a4-a82b-10309b6c93d4.png)
